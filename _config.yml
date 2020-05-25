@@ -23,8 +23,8 @@ email: info@trictr.ac
 description: >- # this means to ignore newlines until "baseurl:"
   Coming soon!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: trictr.ac
+url: "https://www.trictr.ac" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: trictr_ac
 github_username:  jcolson
 
 # Build settings
